@@ -13,16 +13,13 @@ function Footer() {
             &copy; {new Date().getFullYear()}   Quilab. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://www.facebook.com/mac.quilab" className="text-gray-400 hover:text-white">
               <FaFacebook />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white">
-              <FaTwitter />
-            </a>
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/mark-lourence-quilab-72a891369/" className="text-gray-400 hover:text-white">
               <FaLinkedin />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/macquilab" className="text-gray-400 hover:text-white">
               <FaGithub />
             </a>
           </div>
